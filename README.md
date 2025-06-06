@@ -1,7 +1,3 @@
-<p align="center">
-  <img width="280" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&count_private=true" alt="Sayan's GitHub Stats" />
-</p>
-
 <h2 align="center">👋 Hi, I’m <b>Sayan Sengupta</b>!</h2>
 
 <p align="center">
@@ -9,19 +5,20 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&margin-w=5" alt="Trophies" />
+  <a href="https://github.com/sayan-sengupta">
+    <img src="https://github-profile-trophy.vercel.app/?username=sayan-sengupta&theme=radical&no-frame=true&margin-w=5" alt="Trophies" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Follow&style=social" alt="GitHub Followers" />
+  <a href="https://github.com/sayan-sengupta" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/github/followers/sayan-sengupta?label=Follow&style=social" alt="GitHub Followers" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://twitter.com/YOUR_USERNAME" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/twitter/follow/YOUR_USERNAME?label=Follow%20on%20Twitter&style=social" alt="Twitter Followers" />
-  </a>
+  <a href="https://linkedin.com/in/sayan-sengupta-93278a228/" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=social&logo=linkedin" alt="LinkedIn Follow" />
+</a>
+
 </p>
 
 ---
@@ -38,9 +35,8 @@ JavaScript, React, Angular, TypeScript, UI/UX design, Tailwind CSS, CSS animatio
 ---
 
 ### 📫 How to reach me
-- LinkedIn: [Sayan Sengupta](https://linkedin.com/in/YOUR_USERNAME)
-- Twitter: [@YOUR_USERNAME](https://twitter.com/YOUR_USERNAME)
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- LinkedIn: [Sayan Sengupta](https://linkedin.com/in/sayan-sengupta-93278a228)
+- Email: [sayansengupta2001@gmail.com)](mailto:sayansengupta2001@gmail.com)
 
 ---
 
