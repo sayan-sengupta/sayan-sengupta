@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hi, I’m <b>Sayan Sengupta</b>!</h2>
 
 <p align="center">
-  <em>A passionate Front‑End Developer</em> who loves building <strong>beautiful web UIs</strong> with React, Angular, and TailwindCSS.
+  <em>A passionate Front‑End Developer</em> who loves building <strong>beautiful web UIs</strong> with Angular, and TailwindCSS.
 </p>
 
 <p align="center">
@@ -24,13 +24,13 @@
 ---
 
 ### 🔭 I’m currently working on…
-- 🚀 My portfolio site (React + Vite + TailwindCSS)
+- 🚀 My portfolio site (Angular + TailwindCSS)
 - 🛠️ Contributing to open-source UI libraries and components
 
 ---
 
 ### 💬 Ask me about
-JavaScript, React, Angular, TypeScript, UI/UX design, Tailwind CSS, CSS animations
+JavaScript, Angular, TypeScript, UI/UX design, Tailwind CSS, CSS animations
 
 ---
 
